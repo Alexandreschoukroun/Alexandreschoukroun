@@ -60,4 +60,6 @@ French native, English C1.
 
 ### Reach me
 
+[Portfolio](https://alexandreschoukroun.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/alexandre-schoukroun-837411236/) ·
 [alexandresch01@hotmail.com](mailto:alexandresch01@hotmail.com)
