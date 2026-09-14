@@ -15,7 +15,7 @@ no room to be clever later.
 
 | System | What it does |
 |---|---|
-| **SafeWind** | Real-time vision. Camera acquisition, YOLOv8 exported to ONNX and run through OpenCV DNN, Kalman filter tracking, then a stop command sent to the turbine when a trajectory enters the risk zone. |
+| **SafeWind** | Real-time vision. Camera acquisition, bird detection and Kalman filter trajectory tracking, then a stop command sent to the turbine when a trajectory enters the risk zone. |
 | **AudioBat** | Acoustic detection of bats. Ultrasound acquisition, signal processing and classification of passes, on resource-constrained hardware. |
 | **Radar** | Furuno radar integration. Echo processing to catch approaches beyond camera range, fused with the other detection sources. |
 
