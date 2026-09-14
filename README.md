@@ -19,8 +19,8 @@ no room to be clever later.
 | **AudioBat** | Acoustic detection of bats. Ultrasound acquisition, signal processing and classification of passes, on resource-constrained hardware. |
 | **Radar** | Furuno radar integration. Echo processing to catch approaches beyond camera range, fused with the other detection sources. |
 
-Around that: REST services in C++ with Drogon, Qt supervision interfaces,
-Docker containerisation, and deployment onto machines that sit in a field in
+Around that: REST services in C++ with Drogon, web supervision interfaces,
+and deployment onto machines that sit in a field in
 the rain. Scrum, TDD, continuous integration.
 
 **A note on what you will not find here.** That C++ work belongs to my employer
